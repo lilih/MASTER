@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family : "win8";
+    src: url(../font/segoeuisl.ttf) format("truetype");
+}
+
+.font_content{
+	font-family:win8;
+	text-decoration:none;
+}
+
+.font_login{
+	color:#333;
+	font-family:win8;
+}
