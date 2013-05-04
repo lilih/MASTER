@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.text_field{
+	width:300px;
+	height:20px;
+	border:0px;
+	margin-top:5px;
+	margin-bottom:10px;
+	padding:5px;
+	background:transparent;
+	border-bottom:1px solid #0CF;
+	color:#666;
+	font-family:win8;
+	font-size:18px;
+}

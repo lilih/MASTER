@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* align */
+.rata_kiri{
+	left:0px;
+}
+
+.rata_kanan{
+	right:0px;
+}
+
+.rata_atas{
+	top:0px;
+}
+/* End of Align*/
+
+/* Text Align */
+.rata_text_kanan{
+	text-align:right;
+}
+
+.rata_text_kiri{
+	text_align:left;
+}
+
